@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Letras baixadas (conteudo com direitos autorais; remova esta linha se quiser versionar)
+*.lrc
